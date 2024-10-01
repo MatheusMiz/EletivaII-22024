@@ -7,20 +7,20 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
-            background-color: #f8f9fa; /* Cor de fundo suave */
+            background-color: #f8f9fa; 
         }
         .card {
-            border-radius: 1rem; /* Borda arredondada para o card */
+            border-radius: 1rem; 
         }
         .card-body {
-            padding: 2rem; /* Padding mais espaçoso dentro do card */
+            padding: 2rem; 
         }
         .btn {
-            width: 100%; /* Botões ocupam a largura total do card */
-            margin-bottom: 0.5rem; /* Espaçamento entre botões */
+            width: 100%; 
+            margin-bottom: 0.5rem; 
         }
         .card-title {
-            margin-bottom: 1.5rem; /* Espaçamento abaixo do título do card */
+            margin-bottom: 1.5rem; 
         }
     </style>
 </head>
